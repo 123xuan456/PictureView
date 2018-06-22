@@ -97,9 +97,6 @@ public class ImageDetailFragment extends Fragment {
                 }
             });
         }
-        {
-            mImageView.setImageResource(mImageLoading);
-        }
     }
 
 }
